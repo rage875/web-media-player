@@ -1,0 +1,6 @@
+Git init
+Npm init
+Install live server as dev dependency
+    npm i -D live-server
+Add run command
+    "start": "live-server --browser=chrome"
